@@ -32,6 +32,7 @@
                     <li>Node.js</li>
                     <li>NestJs</li>
                     <li>ASP.Net Web API</li>
+                    <li>ASP.Net Core Web API</li>
                 </ul>
             </td>
             <td>
